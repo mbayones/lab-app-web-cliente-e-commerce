@@ -1,0 +1,18 @@
+.custom-modal-content {
+    text-align: center;
+}
+
+.modal-dialog-custom {
+    padding: '1rem';
+    border-radius: '0.5rem';
+}
+
+.modal-portal-custom {
+    position: 'fixed';
+    top: 0;
+    left: 0;
+    width: '100%';
+    height: '100%';
+    overflow-y: 'auto';
+    z-index: 1050
+}
